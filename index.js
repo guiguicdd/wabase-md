@@ -1,4 +1,4 @@
-// De 104 para 
+// De 104 para 57
 const makeWASocket = require('@adiwajshing/baileys-md').default
 const { BufferJSON, initInMemoryKeyStore, DisconnectReason } = require('@adiwajshing/baileys-md')
 const fs = require('fs')
