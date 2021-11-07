@@ -3,7 +3,7 @@ Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https
 
 ## Instalação:
 ```bash
-git clone https://github.com/jaysixnine/WABaseMD
+git clone https://github.com/guiguicdd/WABaseMD.git
 cd WABaseMD
 
 #----------- INSTALAR LOCALMENTE -----------
