@@ -1,0 +1,34 @@
+{
+  "name": "wabasemd",
+  "version": "1.0.000",
+  "description": "Robo desenvolvido em JS para o novo whatsapp-md.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "2021",
+    "base",
+    "baileys-md",
+    "bot"
+  ],
+  "author": "Guiguicdd",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiguicdd/WABaseMD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guiguicdd/WABaseMD.git"
+  },
+  "homepage": "https://github.com/guiguicdd/WABaseMD#readme"
+}
