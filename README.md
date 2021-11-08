@@ -28,11 +28,11 @@ npm start
 | Conectar 4 dispositivos simultaneamente |✅|
 | Não precisa de conexão com o celular |✅|
 | Utiliza o whatsapp web por meio de WebSocket |✅|
------
 
 | WABaseMD | Contém |
 | ------------- | ------------- |
 | Funciona com apenas JS (JavaScript) |✅|
 | Escalavel |✅|
-| Livre de bugs |✅|
+| Livre de bugs |❌|
+| Mensagem de exemplo |✅|
 -----
