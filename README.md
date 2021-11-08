@@ -20,7 +20,7 @@ npm start
 # ⚠ ATENÇÃO ⚠
 <b> Por ser um beta, alguns problemas podem ocorrer. E seu número pode ser banido. Use por sua conta e risco. </b>
 
-# Funcionalidades
+## Funcionalidades
 ---------
 
 | Baileys-md | Contém |

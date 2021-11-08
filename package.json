@@ -18,7 +18,7 @@
     "baileys-md",
     "bot"
   ],
-  "author": "Guiguicdd",
+  "author": "guiguicdd",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device"
