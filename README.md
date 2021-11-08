@@ -32,7 +32,7 @@ npm start
 | WABaseMD | Contém |
 | ------------- | ------------- |
 | Funciona com apenas JS (JavaScript) |✅|
-| Escalavel |✅|
+| Escalável |✅|
 | Livre de bugs |❌|
 | Mensagem de exemplo |✅|
 -----
