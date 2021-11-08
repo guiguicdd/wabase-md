@@ -18,7 +18,7 @@ npm start
 ```
 
 # ⚠ ATENÇÃO ⚠
-<b> Por ser um beta, alguns problemas podem ocorrer. E seu número pode ser banido. Use por sua conta e risco. </b>
+<b> Por ser um beta do baileys-md, alguns problemas podem ocorrer. E seu número pode ser banido. Use por sua conta e risco. </b>
 
 ## Funcionalidades
 ---------
@@ -28,4 +28,11 @@ npm start
 | Conectar 4 dispositivos simultaneamente |✅|
 | Não precisa de conexão com o celular |✅|
 | Utiliza o whatsapp web por meio de WebSocket |✅|
+-----
+
+| WABaseMD | Contém |
+| ------------- | ------------- |
+| Funciona com apenas JS (JavaScript) |✅|
+| Escalavel |✅|
+| Livre de bugs |✅|
 -----
