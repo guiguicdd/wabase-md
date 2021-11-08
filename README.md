@@ -24,9 +24,9 @@ npm start
 
 | Baileys-md | Contém |
 | ------------- | ------------- |
-| Conectar 4 dispositivos simultaneamente |✅|
+| 4 dispositivos simultaneamente |✅|
 | Não precisa de conexão com o celular |✅|
-| Utiliza o whatsapp web por meio de WebSocket |✅|
+| Conecta ao whatsapp via WebSocket |✅|
 
 | WABaseMD | Contém |
 | ------------- | ------------- |
