@@ -25,7 +25,7 @@ npm start
 | Baileys-md | Status |
 | ------------- | ------------- |
 | 4 dispositivos simultaneamente |⚠|
-| Não precisa de conexão com o celular |✅|
+| Não do celular conectado a rede |✅|
 | Conecta ao whatsapp via WebSocket |✅|
 
 | WABaseMD | Status |
