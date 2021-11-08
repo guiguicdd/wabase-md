@@ -22,13 +22,13 @@ npm start
 
 ## Funcionalidades
 
-| Baileys-md | Contém |
+| Baileys-md | Status |
 | ------------- | ------------- |
 | 4 dispositivos simultaneamente |⚠|
 | Não precisa de conexão com o celular |✅|
 | Conecta ao whatsapp via WebSocket |✅|
 
-| WABaseMD | Contém |
+| WABaseMD | Status |
 | ------------- | ------------- |
 | Funciona com apenas JS (JavaScript) |✅|
 | Escalável |✅|
