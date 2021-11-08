@@ -21,7 +21,6 @@ npm start
 <b> Por ser um beta do baileys-md, alguns problemas podem ocorrer. E seu número pode ser banido. Use por sua conta e risco. </b>
 
 ## Funcionalidades
----------
 
 | Baileys-md | Contém |
 | ------------- | ------------- |
@@ -35,4 +34,3 @@ npm start
 | Escalável |✅|
 | Livre de bugs |❌|
 | Mensagem de exemplo |✅|
------
