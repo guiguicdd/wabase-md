@@ -1,0 +1,4 @@
+title: WABaseMD - Bot de Whatsapp
+logo: /WABaseMD-logo.png
+description: Script base desenvolvida em NodeJS para WhatsApp multi-device usando a lib baileys-md.
+show_downloads: true
