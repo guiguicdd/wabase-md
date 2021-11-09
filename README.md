@@ -67,7 +67,7 @@ npm start
 
 ```
 
-# ⚠ ATENTION ⚠
+# ⚠ ATTENTION ⚠
 <b> It´s a beta, so issue is spected to be apppering. Use at your own risk. </b>
 
 ## Functionalities
