@@ -39,3 +39,48 @@ npm start
 | Escalável |✅|
 | Livre de bugs |❌|
 | Mensagem de exemplo |✅|
+
+-------------------------------------
+# In inglesh/ Em inglês
+
+# WABaseMD
+Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
+
+## Instalation
+```bash
+
+#----------- CLONE THE REPOSITORY -----------
+git clone https://github.com/guiguicdd/WABaseMD.git
+cd WABaseMD
+
+#----------- INSTALL THE DEPENDENCIES -----------
+yarn
+
+#----------- INSTALL TS AT BAILEYS-MD REPO -----------
+cd node_modules/@adiwajshing/baileys-md
+npm i typescript -g
+tsc
+cd ../../../
+
+#----------- STARTS WABASEMD -----------
+npm start
+
+```
+
+# ⚠ ATENTION ⚠
+<b> It´s a beta, so issue is spected to be apppering. Use at your own risk. </b>
+
+## Functionalities
+
+| Baileys-md | Status |
+| ------------- | ------------- |
+| 4 devices simultaniely |✅|
+| Work without whatsapp connection  |✅|
+| Works with WebSocket |✅|
+
+| WABaseMD | Status |
+| ------------- | ------------- |
+| JS (JavaScript) only |✅|
+| scalable script structure |✅|
+| free of bugs |❌|
+| Example message |✅|
