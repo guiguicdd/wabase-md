@@ -74,7 +74,7 @@ npm start
 
 | Baileys-md | Status |
 | ------------- | ------------- |
-| 4 devices simultaniely |✅|
+| 4 devices simultaneously |✅|
 | Work without whatsapp connection  |✅|
 | Works with WebSocket |✅|
 
