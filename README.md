@@ -44,7 +44,7 @@ npm start
 # In inglesh/ Em inglês
 
 # WABaseMD
-Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
+Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
 
 ## Instalation
 ```bash
