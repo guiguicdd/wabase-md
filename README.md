@@ -12,10 +12,10 @@ cd WABaseMD
 yarn
 
 #----------- INSTALAR TS NO REPO DO BAILEYS-MD -----------
-
+cd node_modules/@adiwajshing/baileys-md
 npm i typescript -g
-
-tsc -p ./node_modules/@adiwajshing/baileys-md/
+tsc
+cd ../../../
 
 #----------- INICIAR O WABASEMD -----------
 npm start
@@ -56,10 +56,10 @@ cd WABaseMD
 yarn
 
 #----------- INSTALL TS AT BAILEYS-MD REPO -----------
-
+cd node_modules/@adiwajshing/baileys-md
 npm i typescript -g
-
-tsc -p ./node_modules/@adiwajshing/baileys-md/
+tsc
+cd ../../../
 
 #----------- STARTS WABASEMD -----------
 npm start
