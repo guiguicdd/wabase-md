@@ -37,7 +37,7 @@ npm start
 | ------------- | ------------- |
 | Funciona com apenas JS (JavaScript) |✅|
 | Escalável |✅|
-| Livre de bugs |❌|
+| Livre de bugs |✅|
 | Mensagem de exemplo |✅|
 
 -------------------------------------
