@@ -2,24 +2,21 @@
 Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.
 
 ## Instalação
-```bash
 
-#----------- CLONAR O REPOSITÓRIO -----------
-git clone https://github.com/guiguicdd/WABaseMD.git
-cd WABaseMD
 
-#----------- INSTALAR AS DEPENDÊNCIAS -----------
-yarn
+##### CLONAR O REPOSITÓRIO 
+```Alpine Abuild
+git clone https://github.com/guiguicdd/WABaseMD.git && cd WABaseMD
+```
 
-#----------- INSTALAR TS NO REPO DO BAILEYS-MD -----------
-cd node_modules/@adiwajshing/baileys-md
-npm i typescript -g
-tsc
-cd ../../../
+##### INSTALAR AS DEPENDÊNCIAS 
+```Alpine Abuild
+yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
+```
 
-#----------- INICIAR O WABASEMD -----------
+##### INICIAR O WABASEMD 
+```Alpine Abuild
 npm start
-
 ```
 
 # ⚠ ATENÇÃO ⚠
@@ -46,24 +43,21 @@ npm start
 Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
 
 ## Instalation
-```bash
 
-#----------- CLONE THE REPOSITORY -----------
-git clone https://github.com/guiguicdd/WABaseMD.git
-cd WABaseMD
 
-#----------- INSTALL THE DEPENDENCIES -----------
-yarn
+#####  CLONE THE REPOSITORY 
+```Alpine Abuild
+git clone https://github.com/guiguicdd/WABaseMD.git && cd WABaseMD
+```
 
-#----------- INSTALL TS AT BAILEYS-MD REPO -----------
-cd node_modules/@adiwajshing/baileys-md
-npm i typescript -g
-tsc
-cd ../../../
+#####  INSTALL THE DEPENDENCIES 
+```Alpine Abuild
+yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
+```
 
-#----------- STARTS WABASEMD -----------
+#####  STARTS WABASEMD 
+```Alpine Abuild
 npm start
-
 ```
 
 # ⚠ ATTENTION ⚠
