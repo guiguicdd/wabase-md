@@ -37,7 +37,6 @@ npm start
 | ------------- | ------------- |
 | Funciona com apenas JS (JavaScript) |✅|
 | Escalável |✅|
-| Livre de bugs |✅|
 | Mensagem de exemplo |✅|
 
 -------------------------------------
@@ -82,5 +81,4 @@ npm start
 | ------------- | ------------- |
 | JS (JavaScript) only |✅|
 | scalable script structure |✅|
-| free of bugs |❌|
 | Example message |✅|
