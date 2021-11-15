@@ -13,19 +13,6 @@ git clone https://github.com/guiguicdd/WABaseMD.git && cd WABaseMD
 ```Alpine Abuild
 yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
-=======
-#----------- CLONAR O REPOSITÓRIO -----------
-git clone https://github.com/guiguicdd/WABaseMD.git
-cd WABaseMD
-
-#----------- INSTALAR AS DEPENDÊNCIAS -----------
-yarn
-
-#----------- INSTALAR TS NO REPO DO BAILEYS-MD -----------
-cd node_modules/@adiwajshing/baileys-md
-npm i typescript -g
-tsc
-cd ../../../
 
 #### INICIAR O WABASEMD 
 ```Alpine Abuild
@@ -67,21 +54,11 @@ git clone https://github.com/guiguicdd/WABaseMD.git && cd WABaseMD
 ```Alpine Abuild
 yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
-=======
-#----------- INSTALL THE DEPENDENCIES -----------
-yarn
-
-#----------- INSTALL TS AT BAILEYS-MD REPO -----------
-cd node_modules/@adiwajshing/baileys-md
-npm i typescript -g
-tsc
-cd ../../../
 
 ####  STARTS WABASEMD 
 ```Alpine Abuild
 npm start
 ```
-
 
 # ⚠ ATTENTION ⚠
 <b> It´s a beta, so issue is spected to be apppering. Use at your own risk. </b>
