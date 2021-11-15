@@ -24,17 +24,17 @@ npm start
 
 ## Funcionalidades
 
-| Baileys-md | Status |
-| ------------- | ------------- |
-| 4 dispositivos simultaneamente |✅|
-| Funciona independente do celular |✅|
-| Conecta ao whatsapp via WebSocket |✅|
+| Baileys-md                        | Status  |
+| :-------------------------------  | :-----: |
+| 4 dispositivos simultaneamente    |   ✅   |
+| Funciona independente do celular  |   ✅   |
+| Conecta ao whatsapp via WebSocket |   ✅   |
 
-| WABaseMD | Status |
-| ------------- | ------------- |
-| Funciona com apenas JS (JavaScript) |✅|
-| Escalável |✅|
-| Mensagem de exemplo |✅|
+| WABaseMD                             | Status  |
+| :----------------------------------  | :----:  |
+| Funciona com apenas JS (JavaScript)  |   ✅   |
+| Escalável                            |   ✅   |
+| Mensagem de exemplo                  |   ✅   |
 
 -------------------------------------
 # In inglesh/ Em inglês
@@ -65,14 +65,14 @@ npm start
 
 ## Functionalities
 
-| Baileys-md | Status |
-| ------------- | ------------- |
-| 4 devices simultaneously |✅|
-| Work without whatsapp connection  |✅|
-| Works with WebSocket |✅|
+| Baileys-md                       | Status  |
+| :------------------------------- | :----:  |
+| 4 devices simultaneously         |   ✅   |
+| Work without whatsapp connection |   ✅   |
+| Works with WebSocket             |   ✅   |
 
-| WABaseMD | Status |
-| ------------- | ------------- |
-| JS (JavaScript) only |✅|
-| scalable script structure |✅|
-| Example message |✅|
+| WABaseMD                     | Status  |
+| ---------------------------- | :----:  |
+| JS (JavaScript) only         |   ✅   |
+| scalable script structure    |   ✅   |
+| Example message              |   ✅   |
