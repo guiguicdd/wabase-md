@@ -52,25 +52,31 @@ npm start
 Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
 
 ## Instalation
+
+#### ----------- CLONE THE REPOSITORY -----------
 ```Alpine Abuild
-
-#----------- CLONE THE REPOSITORY -----------
 git clone https://github.com/guiguicdd/WABaseMD.git
-cd WABaseMD
-
-#----------- INSTALL THE DEPENDENCIES -----------
-yarn
-
-#----------- INSTALL TS AT BAILEYS-MD REPO -----------
-
-npm i typescript -g
-
-tsc -p ./node_modules/@adiwajshing/baileys-md/
-
-#----------- STARTS WABASEMD -----------
-npm start
-
 ```
+```Alpine Abuild
+cd WABaseMD
+```
+#### ----------- INSTALL THE DEPENDENCIES -----------
+```Alpine Abuild
+yarn
+```
+
+#### ----------- INSTALL TS AT BAILEYS-MD REPO -----------
+```Alpine Abuild
+npm i typescript -g
+```
+```Alpine Abuild
+tsc -p ./node_modules/@adiwajshing/baileys-md/
+```
+#### ----------- STARTS WABASEMD -----------
+```Alpine Abuild
+npm start
+```
+
 
 # ⚠ ATTENTION ⚠
 <b> It´s a beta, so issue is spected to be apppering. Use at your own risk. </b>
