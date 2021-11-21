@@ -7,8 +7,8 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "postinstall": "npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/"
   },
   "keywords": [
     "termux",
