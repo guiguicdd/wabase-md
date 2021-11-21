@@ -13,8 +13,6 @@ cd wabase-md
 ##### INSTALAR AS DEPENDÊNCIAS 
 ```Alpine Abuild
 yarn
-npm i typescript -g  
-tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
 
 ##### INICIAR O WABASEMD 
@@ -57,8 +55,6 @@ cd wabase-md
 #####  INSTALL THE DEPENDENCIES 
 ```Alpine Abuild
 yarn
-npm i typescript -g  
-tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
 
 #####  STARTS WABASEMD 
