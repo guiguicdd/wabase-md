@@ -6,12 +6,15 @@ Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https
 
 ##### CLONAR O REPOSITÓRIO 
 ```Alpine Abuild
-git clone https://github.com/guiguicdd/wabase-md.git && cd wabase-md
+git clone https://github.com/guiguicdd/wabase-md.git
+cd wabase-md
 ```
 
 ##### INSTALAR AS DEPENDÊNCIAS 
 ```Alpine Abuild
-yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
+yarn
+npm i typescript -g  
+tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
 
 ##### INICIAR O WABASEMD 
@@ -47,12 +50,15 @@ Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://githu
 
 #####  CLONE THE REPOSITORY 
 ```Alpine Abuild
-git clone https://github.com/guiguicdd/wabase-md.git && cd wabase-md
+git clone https://github.com/guiguicdd/wabase-md.git
+cd wabase-md
 ```
 
 #####  INSTALL THE DEPENDENCIES 
 ```Alpine Abuild
-yarn && npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/
+yarn
+npm i typescript -g  
+tsc -p ./node_modules/@adiwajshing/baileys-md/
 ```
 
 #####  STARTS WABASEMD 
