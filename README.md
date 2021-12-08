@@ -15,7 +15,7 @@ cd wabase-md
 yarn
 ```
 
-##### INICIAR O WABASEMD 
+##### INICIAR O WABASEMD (BOT/ROBÔ)
 ```Alpine Abuild
 npm start
 ```
@@ -57,7 +57,7 @@ cd wabase-md
 yarn
 ```
 
-#####  STARTS WABASEMD 
+#####  STARTS WABASEMD (BOT/ROBÔ)
 ```Alpine Abuild
 npm start
 ```

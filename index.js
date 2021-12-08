@@ -10,7 +10,7 @@ const startSock = () => {
         if (!msg.key.fromMe && m.type === 'notify') {
             console.log('+ respondendo: ', msg.key.remoteJid)
             await sock.sendReadReceipt(msg.key.remoteJid, msg.key.participant, [msg.key.id])
-            await sock.sendMessage(msg.key.remoteJid, { text: 'Opa! WABaseMD funcionando!' })
+            await sock.sendMessage(msg.key.remoteJid, { text: 'Opa! WABaseMD funcionando! Agora a estrela do https://github.com/guiguicdd/wabase-md' })
         }
     })
 
