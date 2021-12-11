@@ -1,5 +1,6 @@
 # WABaseMD
-Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.
+Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis. Caso queira algo mais completo, olhe meu outro repo. 
+[warico-md](https://github.com/guiguicdd/warico-md)
 
 ## Instalação
 
