@@ -22,7 +22,13 @@
   "author": "guiguicdd",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device"
+    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
+    "jimp": "^0.16.1",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.29.3",
+    "axios": "^0.21.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
   },
   "repository": {
     "type": "git",
