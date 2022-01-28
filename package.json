@@ -1,14 +1,14 @@
 {
   "name": "wabase-md",
-  "version": "1.2.000",
-  "description": "Robo desenvolvido em JS para o novo whatsapp-md.",
+  "version": "2.0.000",
+  "description": "Robo desenvolvido em JS para o whatsapp-md. Com suporte ao Whatsapp Legacy via Baileys",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "start": "node index.js",
-    "postinstall": "npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys-md/"
+    "postinstall": "npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys"
   },
   "keywords": [
     "termux",
@@ -17,15 +17,17 @@
     "wabase-md",
     "base",
     "baileys-md",
+    "baileys",
     "bot"
   ],
   "author": "guiguicdd",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys-md": "github:adiwajshing/baileys#multi-device",
+    "@adiwajshing/baileys": "github:adiwajshing/baileys",
     "jimp": "^0.16.1",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.29.3",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "^0.21.1",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
