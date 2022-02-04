@@ -1,5 +1,5 @@
 # WABaseMD
-Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.
+Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.
 
 ## Instalação
 
@@ -25,7 +25,7 @@ npm start
 
 ## Funcionalidades
 
-| Baileys-md                        | Status  |
+| Baileys                           | Status  |
 | :-------------------------------  | :-----: |
 | 4 dispositivos simultaneamente    |   ✅   |
 | Funciona independente do celular  |   ✅   |
@@ -41,7 +41,7 @@ npm start
 # In inglesh/ Em inglês
 
 # WABaseMD
-Base for whatsapp multidevice in JS using [adiwajshing/baileys-md](https://github.com/adiwajshing/baileys/tree/multi-device). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
+Base for whatsapp multidevice in JS using [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
 
 ## Instalation
 
@@ -67,7 +67,7 @@ npm start
 
 ## Functionalities
 
-| Baileys-md                       | Status  |
+| Baileys                          | Status  |
 | :------------------------------- | :----:  |
 | 4 devices simultaneously         |   ✅   |
 | Work without whatsapp connection |   ✅   |
