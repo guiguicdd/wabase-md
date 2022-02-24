@@ -1,10 +1,13 @@
-// De 104 para 17
-const { default: makeWASocket, useSingleFileAuthState, DisconnectReason } = require("@adiwajshing/baileys")
-const { state, saveState } = useSingleFileAuthState('./wabasemdConnection.json')
 const { core } = require('./lib')
+const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion } = require("@adiwajshing/baileys")
+const { state, saveState } = useSingleFileAuthState('./wabasemdConnection.json')
 
-const startSock = () => {
-    const sock = makeWASocket({ printQRInTerminal: true, auth: state })
+const startSock = async () => {
+    // fetch latest version of WA Web
+    const { version, isLatest } = await fetchLatestBaileysVersion()
+    console.log(`using WA v${version.join('.')}, isLatest: ${isLatest}`)
+
+    const sock = makeWASocket({ version, printQRInTerminal: true, auth: state })
     sock.ev.on('messages.upsert', async m => await core(sock, m))
     sock.ev.on('connection.update', (update) => {
         const { connection, lastDisconnect } = update

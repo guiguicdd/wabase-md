@@ -7,8 +7,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "node index.js",
-    "postinstall": "npm i typescript -g && tsc -p ./node_modules/@adiwajshing/baileys"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -23,10 +22,11 @@
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "jimp": "^0.16.1",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.29.3",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "pino": "^7.6.2",
     "axios": "^0.21.1",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"

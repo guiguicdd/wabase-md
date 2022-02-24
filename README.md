@@ -12,7 +12,7 @@ cd wabase-md
 
 ##### INSTALAR AS DEPENDÊNCIAS 
 ```Alpine Abuild
-yarn
+npm i
 ```
 
 ##### INICIAR O WABASEMD (BOT/ROBÔ)
@@ -25,7 +25,7 @@ npm start
 
 ## Funcionalidades
 
-| Baileys                           | Status  |
+| Baileys V4                        | Status  |
 | :-------------------------------  | :-----: |
 | 4 dispositivos simultaneamente    |   ✅   |
 | Funciona independente do celular  |   ✅   |
@@ -54,7 +54,7 @@ cd wabase-md
 
 #####  INSTALL THE DEPENDENCIES 
 ```Alpine Abuild
-yarn
+npm i
 ```
 
 #####  STARTS WABASEMD (BOT/ROBÔ)
@@ -67,7 +67,7 @@ npm start
 
 ## Functionalities
 
-| Baileys                          | Status  |
+| Baileys V4                       | Status  |
 | :------------------------------- | :----:  |
 | 4 devices simultaneously         |   ✅   |
 | Work without whatsapp connection |   ✅   |
