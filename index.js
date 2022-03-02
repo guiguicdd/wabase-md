@@ -3,10 +3,7 @@ const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLa
 const { state, saveState } = useSingleFileAuthState('./wabasemdConnection.json')
 
 const startSock = async () => {
-    // fetch latest version of WA Web
-    const { version, isLatest } = await fetchLatestBaileysVersion()
-    console.log(`using WA v${version.join('.')}, isLatest: ${isLatest}`)
-
+    const { version } = await fetchLatestBaileysVersion()
     const sock = makeWASocket({ version, printQRInTerminal: true, auth: state })
     sock.ev.on('messages.upsert', async m => await core(sock, m))
     sock.ev.on('connection.update', (update) => {
