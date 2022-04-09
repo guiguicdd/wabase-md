@@ -1,5 +1,7 @@
+exports.testMode = true
+
 exports.info = {
-    prefix: ".",
+    prefix: this.testMode ? '#' : '.',
     dono: {
         nome: "Guilherme",
         numero: [
@@ -8,8 +10,6 @@ exports.info = {
     },
     grupo: ""
 }
-
-exports.testMode = true
 
 exports.connectionFileName = () => {
     var path = './connection/'
