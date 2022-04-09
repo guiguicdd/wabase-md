@@ -8,3 +8,10 @@ exports.info = {
     },
     grupo: ""
 }
+
+exports.testMode = true
+
+exports.connectionFileName = () => {
+    var path = './connection/'
+    return path + (this.testMode ? 'wabasemdConnectionTest.json' : 'wabasemdConnection.json')
+}

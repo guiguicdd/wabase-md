@@ -1,5 +1,6 @@
 const { default: makeWASocket, useSingleFileAuthState, DisconnectReason, fetchLatestBaileysVersion } = require("@adiwajshing/baileys")
-const { state, saveState } = useSingleFileAuthState('./connection/wabasemdConnection.json')
+const { connectionFileName } = require("../config/configFile")
+const { state, saveState } = useSingleFileAuthState(connectionFileName())
 
 exports.createConnection = new Promise((resolve, reject) => {
     try {
