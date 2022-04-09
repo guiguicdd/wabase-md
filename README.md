@@ -38,7 +38,7 @@ npm start
 | Mensagem de exemplo                  |   ✅   |
 
 -------------------------------------
-# In inglesh/ Em inglês
+# In english / Em inglês
 
 # WABaseMD
 Base for whatsapp multidevice in JS using [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
