@@ -1,8 +1,12 @@
-# WABaseMD
+<h1 align="center">WABaseMD</h1>
+
 Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.
 
-## Instalação
+<p align="center">
+  <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcWJIO5wUgRv6VmLoUGD2i3lZulFfdwifVg3B3LRMTedthTC0g" alt="Logo do wabase-md"/>
+</p>
 
+## Instalação
 
 ##### CLONAR O REPOSITÓRIO 
 ```Alpine Abuild
@@ -38,7 +42,7 @@ npm start
 | Mensagem de exemplo                  |   ✅   |
 
 -------------------------------------
-# In inglesh/ Em inglês
+# In english / Em inglês
 
 # WABaseMD
 Base for whatsapp multidevice in JS using [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Also take a look at the [documentation](https://adiwajshing.github.io/Baileys/).
