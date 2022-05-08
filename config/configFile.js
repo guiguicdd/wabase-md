@@ -11,7 +11,5 @@ exports.info = {
     grupo: ""
 }
 
-exports.connectionFileName = () => {
-    var path = './'
-    return path + (this.testMode ? 'wabasemdConnectionTest.json' : 'wabasemdConnection.json')
-}
+const path = './'
+exports.connFileName = path + (this.testMode ? 'wabasemdConnectionTest.json' : 'wabasemdConnection.json')
