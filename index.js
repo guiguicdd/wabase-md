@@ -4,9 +4,9 @@ const { Boom } = require("@hapi/boom");
 const { connFileName } = require("./config/configFile")
 const { state, saveState } = useSingleFileAuthState(connFileName)
 // Removido temporariamente
-// const MAIN_LOGGER = require("@adiwajshing/baileys/lib/Utils/logger").default
-// const logger = MAIN_LOGGER.child({})
-// logger.level = 'trace'
+const MAIN_LOGGER = require("@adiwajshing/baileys/lib/Utils/logger").default
+const logger = MAIN_LOGGER.child({})
+logger.level = 'trace'
 
 const startSock = async () => {
     const { version } = await fetchLatestBaileysVersion()
