@@ -1,6 +1,6 @@
 {
   "name": "wabase-md",
-  "version": "2.1.000",
+  "version": "2.2.000",
   "description": "Robo desenvolvido em JS para o whatsapp-md. Com suporte ao Whatsapp Legacy via Baileys",
   "main": "index.js",
   "directories": {
@@ -27,7 +27,7 @@
     "jimp": "^0.16.1",
     "qrcode-terminal": "^0.12.0",
     "link-preview-js": "^2.1.13",
-    "sharp": "^0.29.3",
+    "sharp": "^0.30.5",
     "axios": "^0.21.1",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
