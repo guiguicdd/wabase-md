@@ -1,3 +1,6 @@
+YOUR CODE IS INSIDE INDEX.JS
+
+
 <h1 align="center">WABaseMD</h1>
 
 Base para whatsapp multidevice em JS usando a lib [adiwajshing/baileys](https://github.com/adiwajshing/baileys). Veja também a [documentação](https://adiwajshing.github.io/Baileys/) para saber quais são as funções disponiveis.

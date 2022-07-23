@@ -6,11 +6,11 @@ const { state, saveState } = useSingleFileAuthState(connFileName)
 // Removido temporariamente
 const MAIN_LOGGER = require("@adiwajshing/baileys/lib/Utils/logger").default
 const logger = MAIN_LOGGER.child({})
-logger.level = 'trace'
+logger.level = 'silent'
 
 const startSock = async () => {
     const { version } = await fetchLatestBaileysVersion()
-    const sock = makeWASocket({ version, printQRInTerminal: true, auth: state })
+    const sock = makeWASocket({ logger, version, printQRInTerminal: true, auth: state })
     sock.ev.on('messages.upsert', async m => await core(sock, m))
 
     sock.ev.on('connection.update', (update) => {
