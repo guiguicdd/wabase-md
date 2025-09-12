@@ -28,7 +28,7 @@
     "qrcode-terminal": "^0.12.0",
     "link-preview-js": "^2.1.13",
     "sharp": "^0.32.6",
-    "axios": "^0.30.0",
+    "axios": "^1.12.0",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2"
   },
